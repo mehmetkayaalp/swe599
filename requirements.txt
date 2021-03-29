@@ -46,7 +46,7 @@ py==1.7.0
 -e git+https://github.com/MTG/pycompmusic.git@59cf5a58a3ff4827a2f321eae561c3054ff7f602#egg=pycompmusic
 pycparser==2.19
 pydub==0.23.0
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.3.0
 pytest==3.8.1
 python-dateutil==2.6.0
