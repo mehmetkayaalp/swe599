@@ -42,7 +42,7 @@ pluggy==0.8.0
 -e git+https://github.com/sertansenturk/predominantmelodymakam.git@4356e9659154371a426fb8e5bd1e50979eed4a40#egg=predominantmelodymakam
 prompt-toolkit==1.0.15
 ptyprocess==0.6.0
-py==1.7.0
+py==1.10.0
 -e git+https://github.com/MTG/pycompmusic.git@59cf5a58a3ff4827a2f321eae561c3054ff7f602#egg=pycompmusic
 pycparser==2.19
 pydub==0.23.0
