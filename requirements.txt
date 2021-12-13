@@ -24,7 +24,7 @@ json-tricks==2.1
 kiwisolver==1.0.1
 librosa==0.6.2
 llvmlite==0.25.0
-lxml==4.2.5
+lxml==4.6.5
 matplotlib==2.2.3
 more-itertools==4.3.0
 musicbrainzngs==0.6
