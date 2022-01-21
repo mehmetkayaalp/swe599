@@ -17,7 +17,7 @@ fileoperations-python==1.1.1
 funcsigs==1.0.2
 future==0.17.1
 idna==2.7
-ipython==5.8.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 joblib==0.12.5
 json-tricks==2.1
